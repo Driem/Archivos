@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1406731596 source:c:\users\lalo orellana\desktop\estructuratarea3-master\estructuratarea3-master\evaluador.cpp
+	"Evaluador.h"
+
+1406731596 c:\users\lalo orellana\desktop\estructuratarea3-master\estructuratarea3-master\evaluador.h
+	<iostream>
+	<vector>
+	<set>
+	<map>
+
+1407336278 source:c:\users\lalo orellana\desktop\estructuratarea3-master\estructuratarea3-master\main.cpp
+	"Evaluador.h"
+	<iostream>
+	<vector>
+	<set>
+	<map>
+
